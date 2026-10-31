@@ -1,0 +1,26 @@
+[
+  {
+    "name": "octo-tracker",
+    "description": "A lightweight issue tracker for small product teams.",
+    "language": "JavaScript",
+    "url": "https://github.com/example/octo-tracker",
+    "stargazers_count": 182,
+    "updated_at": "2026-10-20T14:35:00Z"
+  },
+  {
+    "name": "markdown-notes",
+    "description": "Simple note-taking tools built around markdown files.",
+    "language": "TypeScript",
+    "url": "https://github.com/example/markdown-notes",
+    "stargazers_count": 241,
+    "updated_at": "2026-10-12T09:15:00Z"
+  },
+  {
+    "name": "serverless-starter",
+    "description": "Starter templates for deploying serverless apps with CI checks.",
+    "language": "Python",
+    "url": "https://github.com/example/serverless-starter",
+    "stargazers_count": 98,
+    "updated_at": "2026-09-28T18:02:00Z"
+  }
+]
